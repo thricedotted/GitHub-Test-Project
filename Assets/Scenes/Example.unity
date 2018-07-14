@@ -5272,15 +5272,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 13.18
+      value: 61.2
       objectReference: {fileID: 0}
     - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -0.06
+      value: -0.1
       objectReference: {fileID: 0}
     - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 11.8
+      value: 57
       objectReference: {fileID: 0}
     - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
       propertyPath: m_LocalRotation.x
@@ -5304,7 +5304,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 122398, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
       propertyPath: m_Name
-      value: Oak_Tree (10)
+      value: Brave Tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
