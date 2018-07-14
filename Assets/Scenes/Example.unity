@@ -5614,7 +5614,6 @@ Transform:
   - {fileID: 819800613}
   - {fileID: 1842929076}
   - {fileID: 1294727586}
-  - {fileID: 1889889523}
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -10982,57 +10981,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 496734, guid: 613c589fa2eafab478cdcd473f3550d4,
     type: 2}
   m_PrefabInternal: {fileID: 1861392983}
---- !u!1001 &1889889522
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1053280340}
-    m_Modifications:
-    - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 27.48
-      objectReference: {fileID: 0}
-    - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: -0.06
-      objectReference: {fileID: 0}
-    - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 27.76
-      objectReference: {fileID: 0}
-    - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-      propertyPath: m_RootOrder
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 122398, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-      propertyPath: m_Name
-      value: Oak_Tree (13)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: f950b0ae81304e64297da5068592b6ef, type: 2}
-  m_IsPrefabAsset: 0
---- !u!4 &1889889523 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 498370, guid: f950b0ae81304e64297da5068592b6ef,
-    type: 2}
-  m_PrefabInternal: {fileID: 1889889522}
 --- !u!1001 &1980747189
 Prefab:
   m_ObjectHideFlags: 0
